@@ -1,11 +1,12 @@
 baseURL = 'https://github.com/Triips-TheCoder/hugo-hetic'
 languageCode = 'fr-fr'
 title = 'Mon nouveau blog Hugo'
-theme = 'gohugo-theme-ananke'
+theme = 'gohugo-theme-ananke
 
 [params]
 description = "Un blog sur le développement web, la programmation et les nouvelles technologies."
 
 # Paramètres spécifiques au thème Ananke
+custom_css = ["custom.css"]
 showReadingTime = true
 featured_image = '/images/banner.jpg'
