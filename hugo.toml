@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = ''
 languageCode = 'fr-fr'
 title = 'Mon nouveau blog Hugo'
 theme = 'gohugo-theme-ananke'
