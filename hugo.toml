@@ -3,9 +3,9 @@ languageCode = 'fr-fr'
 title = 'Mon nouveau blog Hugo'
 theme = 'gohugo-theme-ananke'
 
-[params]
-description = "Un blog sur le développement web, la programmation et les nouvelles technologies."
-
 # Paramètres spécifiques au thème Ananke
-showReadingTime = true
-featured_image = '/images/banner.jpg'
+[params]
+    description = "Un blog sur le développement web, la programmation et les nouvelles technologies."
+    custom_css = ['custom.css']
+    showReadingTime = true
+    featured_image = '/images/banner.jpg'
