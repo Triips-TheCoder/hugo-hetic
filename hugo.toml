@@ -1,7 +1,7 @@
-baseURL = 'https://github.com/Triips-TheCoder/hugo-hetic'
+baseURL = '/'
 languageCode = 'fr-fr'
 title = 'Mon nouveau blog Hugo'
-theme = 'gohugo-theme-ananke
+theme = 'gohugo-theme-ananke'
 
 [params]
     description = "Un blog sur le développement web, la programmation et les nouvelles technologies."
