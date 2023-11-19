@@ -1,0 +1,10 @@
+#Jetbrains IDEA
+.idea/
+
+# misc
+.DS_Store
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
