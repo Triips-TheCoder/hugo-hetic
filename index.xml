@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Hugo</title>
+    <title>Cookievie</title>
     <link>https://triips-thecoder.github.io/hugo-hetic/</link>
-    <description>Recent content on Blog Hugo</description>
+    <description>Recent content on Cookievie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 Oct 2023 10:58:08 -0400</lastBuildDate>
     <atom:link href="https://triips-thecoder.github.io/hugo-hetic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Delambre Bakery la finesse et la gourmandise à la française</title>
+      <link>https://triips-thecoder.github.io/hugo-hetic/fr/post/delambre-bakery/</link>
+      <pubDate>Mon, 09 Oct 2023 10:58:08 -0400</pubDate>
+      <guid>https://triips-thecoder.github.io/hugo-hetic/fr/post/delambre-bakery/</guid>
+      <description>Critique de l&amp;rsquo;Enseigne de Cookies &amp;ldquo;Delambre Bakery&amp;rdquo; Par Le Gourmet Curieux
+Située au cœur de la ville, Delambre Bakery se présente comme un joyau sucré qui ne manque pas d&amp;rsquo;attirer l&amp;rsquo;attention des amateurs de cookies. Intrigué par le bouche-à-oreille positif, j&amp;rsquo;ai décidé de me plonger dans cette aventure culinaire pour découvrir si Delambre Bakery vivait à la hauteur de sa réputation.
+L&amp;rsquo;Élégance à la Française Dès que j&amp;rsquo;ai franchi la porte de Delambre Bakery, j&amp;rsquo;ai été captivé par l&amp;rsquo;élégance discrète de l&amp;rsquo;endroit.</description>
+    </item>
+    <item>
+      <title>Les cookies londonien débarquent en france.</title>
+      <link>https://triips-thecoder.github.io/hugo-hetic/fr/post/london-cookie/</link>
+      <pubDate>Mon, 09 Oct 2023 10:58:08 -0400</pubDate>
+      <guid>https://triips-thecoder.github.io/hugo-hetic/fr/post/london-cookie/</guid>
+      <description>Par Le Gourmet Curieux
+Ah, les rues pavées de Londres ne sont plus les seules à être embaumées par l&amp;rsquo;irrésistible odeur de cookies fraîchement sortis du four. Creme, cette enseigne légendaire de cookies londonienne, a enfin décidé de traverser la Manche pour conquérir les papilles des gourmands français. Intrigué par la réputation qui a précédé son arrivée, je me suis aventuré dans leur boutique nouvellement ouverte pour découvrir si leurs créations étaient à la hauteur de l&amp;rsquo;enthousiasme qui les entoure.</description>
+    </item>
+    <item>
+      <title>Scoop me a cookie un délice pour les papilles</title>
+      <link>https://triips-thecoder.github.io/hugo-hetic/fr/post/scroop-me-a-cookie/</link>
+      <pubDate>Sat, 12 Aug 2023 10:58:08 -0400</pubDate>
+      <guid>https://triips-thecoder.github.io/hugo-hetic/fr/post/scroop-me-a-cookie/</guid>
+      <description>Par Le Gourmet Curieux
+Lorsqu&amp;rsquo;une enseigne au nom évocateur comme Scoop Me a Cookie a ouvert ses portes près de chez moi, ma curiosité gourmande m&amp;rsquo;a instantanément poussé à franchir le seuil de cette boutique pleine de promesses.
+L&amp;rsquo;Atmosphère Dès que j&amp;rsquo;ai pénétré dans l&amp;rsquo;établissement, j&amp;rsquo;ai été accueilli par une ambiance décontractée et ludique. Les murs étaient ornés de photos alléchantes de cookies débordant de garnitures appétissantes. L&amp;rsquo;odeur sucrée flottait dans l&amp;rsquo;air, créant une atmosphère réconfortante qui m&amp;rsquo;a instantanément mis à l&amp;rsquo;aise.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://triips-thecoder.github.io/hugo-hetic/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://triips-thecoder.github.io/hugo-hetic/fr/contact/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

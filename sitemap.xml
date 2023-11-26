@@ -2,9 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://triips-thecoder.github.io/hugo-hetic/fr/</loc>
-  </url><url>
     <loc>https://triips-thecoder.github.io/hugo-hetic/</loc>
+    <lastmod>2023-10-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>https://triips-thecoder.github.io/hugo-hetic/fr/post/delambre-bakery/</loc>
+    <lastmod>2023-10-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>https://triips-thecoder.github.io/hugo-hetic/fr/post/london-cookie/</loc>
+    <lastmod>2023-10-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>https://triips-thecoder.github.io/hugo-hetic/fr/</loc>
+    <lastmod>2023-10-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>https://triips-thecoder.github.io/hugo-hetic/fr/post/scroop-me-a-cookie/</loc>
+    <lastmod>2023-08-12T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>https://triips-thecoder.github.io/hugo-hetic/fr/contact/</loc>
   </url><url>
     <loc>https://triips-thecoder.github.io/hugo-hetic/categories/</loc>
   </url><url>
