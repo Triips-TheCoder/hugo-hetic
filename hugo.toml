@@ -8,5 +8,7 @@ theme = 'gohugo-theme-ananke'
     custom_css = ['custom.css']
     showReadingTime = true
     featured_image = '/images/cookie-on-bowl.jpg'
+    favicon = '/favicon-32x32.png'
 [recentTitle]
     other = "{{.Title }}"
+
