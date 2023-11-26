@@ -1,6 +1,10 @@
 footer {
-    background-color: #f8f9fa;
+    background-color: #EFC595;
     color: #333;
     text-align: center;
     padding: 20px 0;
+}
+
+.header {
+ min-height: 400px;
 }
