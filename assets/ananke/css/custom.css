@@ -6,5 +6,30 @@ footer {
 }
 
 .header {
- min-height: 400px;
+    min-height: 400px;
+}
+
+.header__background {
+    opacity: 0.4;
+    inset: 0;
+}
+
+
+.header__title {
+    text-align: center;
+}
+
+@media (max-width: 959px) {
+    .header__title {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+@media (max-width: 600px) {
+    .footer_container {
+        flex-direction: column;
+    }
 }

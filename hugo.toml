@@ -1,6 +1,6 @@
 baseURL = 'https://triips-thecoder.github.io/hugo-hetic/'
 languageCode = 'fr-fr'
-title = 'Blog Hugo'
+title = 'Cookievie'
 theme = 'gohugo-theme-ananke'
 
 [params]
@@ -8,3 +8,5 @@ theme = 'gohugo-theme-ananke'
     custom_css = ['custom.css']
     showReadingTime = true
     featured_image = '/images/cookie-on-bowl.jpg'
+[recentTitle]
+    other = "{{.Title }}"
